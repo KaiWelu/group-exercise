@@ -2,6 +2,7 @@ Kai
 
 Germany
 
-Javascript
+Typscript
 
-Sunshine
+Bikelanes
+
